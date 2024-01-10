@@ -26,6 +26,7 @@ The system will serve as a comprehensive information hub, offering real-time upd
 •	To enhance accessibility features to ensure a 90% satisfaction rate among users with disabilities.
 
 •	To provide multilingual support for at least 10 languages to accommodate international visitors.
+
 •	To integrate real-time updates, safety measures, cultural engagement, and environmental guidelines into the system.
 •	To implement advanced reservation management to reduce approval times by 50%.
 •	To stay within budget constraints and collaborate with relevant stakeholders.
