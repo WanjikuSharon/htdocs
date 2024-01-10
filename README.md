@@ -22,6 +22,7 @@ The system will serve as a comprehensive information hub, offering real-time upd
 1.5.1 System Objectives
 
 •	To develop a comprehensive online reservation platform for Amboseli National Park that covers permits, accommodations, tours, transport, and activities.
+
 •	To enhance accessibility features to ensure a 90% satisfaction rate among users with disabilities.
 •	To provide multilingual support for at least 10 languages to accommodate international visitors.
 •	To integrate real-time updates, safety measures, cultural engagement, and environmental guidelines into the system.
