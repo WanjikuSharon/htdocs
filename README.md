@@ -28,6 +28,7 @@ The system will serve as a comprehensive information hub, offering real-time upd
 •	To provide multilingual support for at least 10 languages to accommodate international visitors.
 
 •	To integrate real-time updates, safety measures, cultural engagement, and environmental guidelines into the system.
+
 •	To implement advanced reservation management to reduce approval times by 50%.
 •	To stay within budget constraints and collaborate with relevant stakeholders.
 •	To complete system development and deployment within 4 months, with continuous monitoring and user feedback integration for ongoing improvements.
