@@ -32,6 +32,7 @@ The system will serve as a comprehensive information hub, offering real-time upd
 •	To implement advanced reservation management to reduce approval times by 50%.
 
 •	To stay within budget constraints and collaborate with relevant stakeholders.
+
 •	To complete system development and deployment within 4 months, with continuous monitoring and user feedback integration for ongoing improvements.
 
 1.5.2 Project Objectives
