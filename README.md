@@ -37,10 +37,14 @@ The system will serve as a comprehensive information hub, offering real-time upd
 
 1.5.2 Project Objectives
 
-•	To Acquire the required resources, including funding, technology infrastructure, and skilled personnel, to successfully complete the project. 
+•	To Acquire the required resources, including funding, technology infrastructure, and skilled personnel, to successfully complete the project.
+
 •	To carry out a field research on what information should be available to make the system functional.
+
 •	To design an interactive database in MongoDB database using the servers available to the cooperative society. 
+
 •	To design a good and interactive user interface and required modules. 
+
 •	To implement and test the code to check if it meets the user requirements and satisfy its functionality.
 •	To document all the activities and tasks. 
 •	To Reduce operational cost by ensuring minimum human labor and Keep project completion costs within 10% of the approved budget.
